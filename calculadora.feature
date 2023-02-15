@@ -6,8 +6,8 @@
             Para somar dois números
 
             Esquema do Cenário: soma de 2 numeros
-            Dado que eu acesso a calculadora
-            Quando eu somar <numero1> mais <numero1>
+            Dado que eu acesse a calculadora
+            Quando eu somar <numero1> mais <numero2>
             Entao o resultado deve ser o <total>
 
             Exemplos:
